@@ -56,13 +56,13 @@
 - Problem Solving Patterns  
 
 ---
-
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/jai-harsan-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jai%20Harsan-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
 
 ---
 
