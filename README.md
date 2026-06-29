@@ -55,7 +55,8 @@
 ---
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Web Development
 - Advanced JavaScript  
 - Problem Solving Patterns  
 
