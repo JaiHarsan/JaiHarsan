@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai Harsan</h1>
-<h3 align="center">Aspiring Software Engineer | Problem Solver | CSBS Student</h3>
+<h3 align="center">Aspiring Software Engineer | Open Source Contributor | Problem Solver | CSBS Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;DSA+Enthusiast;Web+Developer;Consistent+Learner&center=true&width=500&height=45">
