@@ -58,7 +58,8 @@
 - Data Structures & Algorithms
 - Web Development
 - Advanced JavaScript  
-- Problem Solving Patterns  
+- Problem Solving Patterns
+- Artificial Intelligence
 
 ---
 ## 📫 Connect With Me
