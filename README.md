@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;DSA+Enthusiast;Building+AI+Projects;Consistent+Learner&center=true&width=700&height=45">
-</p>
+</p>  
 
 ---
 
