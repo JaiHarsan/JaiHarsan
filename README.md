@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 CSBS Student at Sri Eshwar College of Engineering  
-- 💡 Passionate about **Problem Solving,  Intelligence and Machine Learning & Web Development**  
+- 💡 Passionate about **Problem Solving,Artificial Intelligence and Machine Learning & Web Development**  
 - 🎯 Goal: To get placed in **top tech companies (Google/Microsoft)**  
 - 📈 Currently focusing on **DSA & Communication Skills**  
 - ⚡ Strong interest in **building real-world projects**  
